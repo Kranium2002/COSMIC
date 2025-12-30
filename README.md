@@ -123,5 +123,8 @@ Notes:
 ## CPU-only guardrails
 CUDA tensors are not supported. Passing CUDA tensors to `Cosmic` or the extension will raise a clear runtime error.
 
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
-MIT
+MIT. See [LICENSE](LICENSE).
