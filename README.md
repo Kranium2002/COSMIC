@@ -22,7 +22,7 @@ COSMIC allocates optimizer "capital" across tiers:
 Gating uses recent gradient statistics to scale learning rates when signals are volatile, helping stability without spending extra state.
 
 ## Coming soon
-Open-source release and a detailed technical blog on how COSMIC works are coming soon.
+A detailed technical blog on how COSMIC works and GPU support are coming soon.
 
 ## Requirements
 - Python 3.12
