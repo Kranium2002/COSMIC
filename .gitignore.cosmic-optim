@@ -1,0 +1,25 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+.build/
+.dist/
+dist/
+build/
+.venv/
+.env/
+.pytest_cache/
+.ruff_cache/
+.cache/
+.mypy_cache/
+.idea/
+.vscode/
+
+# Torch extension build artifacts
+cosmic/extension/_build/
+
+# Benchmark outputs
+benchmarks/results/
